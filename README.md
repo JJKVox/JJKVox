@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JJKVox a voxel artist and QA analist for VoxEdit
+- 👋 Hi, I’m @JJKVox a voxel artist and QA analist for the Ecosystem team
 - 👀 I’m interested in voxel art, blockchain game
-- 🌱 I’m currently learning VoxEdit, The Sandbox Game Maker, Magica Voxel
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning VoxEdit, The Sandbox Game Maker
+- 💞️ I’m looking to collaborate on Game creation within The Sandbox
 - 📫 How to reach me ...
 
 <!---
